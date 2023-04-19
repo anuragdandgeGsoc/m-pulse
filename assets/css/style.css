@@ -536,6 +536,15 @@ section {
   overflow: hidden;
 }
 
+.timepass{
+  position: relative;
+  background: white;
+  height: 200px ;
+  width: 300px;
+  align:center;
+  margin: auto;
+  top: -55px;
+}
 
 .section-title {
   padding-bottom: 40px;
